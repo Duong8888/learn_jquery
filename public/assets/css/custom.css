@@ -1,0 +1,9 @@
+.custom-popup{
+    background: rgba(0,0,0,0.0);
+    z-index: -1;
+}
+
+.card-form{
+    transform: translateY(-200%);
+    transition: 0.5s;
+}
